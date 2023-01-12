@@ -1,2 +1,2 @@
 # svg-keyboard
-Clavier virtuel en svg pour intégration dans datavisualisation
+Clavier virtuel en svg pour intégration dans page de datavisualisation
